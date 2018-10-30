@@ -13,5 +13,8 @@
     "express": "^4.14.0",
     "hbs": "^4.0.0",
     "nodeman": "^1.1.2"
+  },
+  "devDependencies": {
+    "expect": "^1.20.2"
   }
 }
